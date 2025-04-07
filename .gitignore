@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+*.ipynb
+
+# Ignore analytic scripts
+scripts/
+
+
+# Ignore math data set
+data_sets/math_dataset_algLin/
+
+
+# Ignore Python package files
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Ignore any specific VS Code files
+.vscode/
+
+# Ignore temporary files and folders
+*.tmp
+*.temp
+tmp/
+temp/
+
+# pyenv
+.python-version
+
+# macOS
+.DS_Store
